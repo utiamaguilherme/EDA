@@ -1,0 +1,5 @@
+gcc varias_filas.c mercado.c fila.c  -o varias_filas
+./varias_filas
+
+gcc uma_fila.c mercado.c fila.c  -o uma_fila
+./uma_fila
